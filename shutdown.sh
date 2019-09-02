@@ -1,4 +1,7 @@
 #!/bin/sh
+# Script tomado de:
+# https://htcondor-wiki.cs.wisc.edu/index.cgi/wiki?p=HowToShutdownAnIdleMachine
+#
 # We start out trying to determine if this shutdown was voluntary or not.
 # In this example, we don't do anything useful with this information, so
 # you can skip it if you like.

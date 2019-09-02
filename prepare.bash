@@ -1,4 +1,11 @@
 #!/bin/bash
+
+#####
+# Script que verifica que la instancia Ubuntu inicio correctamente.
+#
+# Author: Edier Zapata
+# Date: 2018-08-10
+#####
 RET=0; i=0
 echo "Preparing node"
 sudo rm -rf /var/lib/apt/lists/*
