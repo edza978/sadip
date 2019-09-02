@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #####
-# Script que obtiene el costo de la instancias Linux
+# Script usado por HTCondor para obtener el costo de la instancia Linux
 #
 # Author: Edier Zapata
 # Date: 2018-08-10
